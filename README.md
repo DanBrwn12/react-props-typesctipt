@@ -1,4 +1,4 @@
-[![Build and Deploy](https://github.com/DanBrwn12/react-props-typescript/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/DanBrwn12/react-props-typescript/actions/workflows/deploy.yml)
+[![Build and Deploy](https://github.com/DanBrwn12/react-props-typesctipt/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/DanBrwn12/react-props-typescript/actions/workflows/deploy.yml)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub_Pages-2ea44f?logo=github)](https://danbrwn12.github.io/react-props-typescript/)
 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
